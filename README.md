@@ -1,2 +1,2 @@
 
-#sk_rookies about group study
+# sk_rookies about group study
